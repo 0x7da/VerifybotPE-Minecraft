@@ -1,0 +1,24 @@
+{
+  "name": "verifybot",
+  "version": "1.0.0",
+  "description": "VerifyBot for @VanityMC by @xxAROX",
+  "main": "DatabaseUtils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanityMC/VerifyBot.git"
+  },
+  "author": "XXArox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanityMC/VerifyBot/issues"
+  },
+  "homepage": "https://github.com/VanityMC/VerifyBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "sqlite3": "^5.0.2"
+  }
+}
